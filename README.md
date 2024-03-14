@@ -1,6 +1,6 @@
 # Cave Drone Game
 
-![Cave Drone Game](https://maryanmats.github.io/halolab-tt/)
+[Cave Drone Game](https://maryanmats.github.io/halolab-tt/)
 
 ## Introduction
 
